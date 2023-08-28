@@ -18,7 +18,7 @@ It is recommended to use `venv` to create a Python virtual environment for the d
 ## Install
 Start by cloning this repo
 
-`git clone https://github.com/cloudera/dbt-hive-example.git`
+`git clone https://github.com/piranavan-nable/dbt-hive-demo.git`
 
 Next install the requirements
 
